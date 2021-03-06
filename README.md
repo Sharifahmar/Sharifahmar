@@ -44,8 +44,5 @@ Hi, I am <b> Ahmar Akhtar Sharif </b>, a passionate self-taught Java Full Stack 
 <a><img height="25" width="30" src="https://www.pngitem.com/pimgs/m/441-4419397_jenkins-logo-png-transparent-png.png"/></a>
 
  <br />
- <br />
- <br />
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=Sharifahmar&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="sharifahmar"/>
  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharifahmar&hide=css,html&theme=dracula" alt="sharifahmar" /></p>
