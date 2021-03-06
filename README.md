@@ -1,7 +1,7 @@
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/ahmar-sharif/">
+<a href="https://www.linkedin.com/in/ahmar-sharif/" target="_blank">
   <img align="left" alt="Ahmar's LinkedIN" src="https://img.shields.io/badge/-@Sharifahmar-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ahmar-sharif/"/>
 </a>
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=Sharifahmar.Sharifahmar" alt="Vistor Badge"></a>
