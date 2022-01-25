@@ -6,7 +6,7 @@
 </a>
 <a><img src="https://visitor-badge.glitch.me/badge?page_id=Sharifahmar.Sharifahmar" alt="Vistor Badge"></a>
 <br />
-Hi, I am <b> Ahmar Akhtar Sharif </b>, a passionate self-taught Java Full Stack Developer based in Pune, India.
+Hi, I am <b> Ahmar Akhtar Sharif </b>, a passionate self-taught Front End Developer based in Pune, India.
 <br />
 
 
@@ -21,7 +21,6 @@ Hi, I am <b> Ahmar Akhtar Sharif </b>, a passionate self-taught Java Full Stack 
 
 - 📫   Feel free to ping me on LinkedIn, I am always happy to help.
 
-- 📝   Checkout my [Resume]().
 
 <br />
 <h2> 🔨 Technology and Tools: </h2>
